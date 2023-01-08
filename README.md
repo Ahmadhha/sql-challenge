@@ -43,3 +43,11 @@ Six CSV files remaining from the employee database in that period:
 7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+
+### Shortcuts
+
+- [ERD](https://app.quickdatabasediagrams.com/#/d/NJsy3C)
+
+- [Data Engineering Schema](https://github.com/Ahmadhha/sql-challenge/blob/main/EmployeeSQL/Data_Engineering_Employees.sql)
+
+- [Data Analysis Schema](https://github.com/Ahmadhha/sql-challenge/blob/main/EmployeeSQL/Data_Analysis_Employees.sql)
